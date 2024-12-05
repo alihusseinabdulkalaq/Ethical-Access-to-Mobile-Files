@@ -1,9 +1,0 @@
-APKTOOL رابط تحميل اداة 
-
-https://apktool.org/docs/install/
-
-Linux
-Download the Linux wrapper script. (Right click, Save Link As apktool)
-
-
-Download the latest version of Apktool.
