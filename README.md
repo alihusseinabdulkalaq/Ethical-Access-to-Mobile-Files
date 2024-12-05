@@ -1,6 +1,6 @@
 Android Penetration Testing Utility
 
-This project provides an Android penetration testing utility designed for educational purposes and security assessments. It enables users to generate and manage payloads for remote access to Android devices, incorporating Metasploit functionalities such as session management and payload creation via a command-line interface (CLI).
+This project provides an Android penetration testing utility designed for educational purposes and security assessments. It enables users to generate and manage payloads for remote access to Android devices, incorporating Metasploit functionalities such as session management and payload creation.
 
 ---
 
